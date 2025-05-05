@@ -73,4 +73,4 @@ El factorial de 5 es: 120
 
 **Julio César Caycho García**  
 📧 ing@cesarcaycho.com  
-📍 Chilca, Perú
+📍 Lima, Perú
